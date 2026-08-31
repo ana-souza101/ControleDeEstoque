@@ -1,0 +1,16 @@
+{
+  "name": "controledeestoque",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/menu.js",
+  "scripts": {
+    "start": "node src/menu.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
